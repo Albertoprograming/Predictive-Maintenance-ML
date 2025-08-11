@@ -23,7 +23,7 @@ Análisis estadístico e interpretación de variables para el mantenimiento pred
 2. Preprocesamiento (limpieza, imputación, escalado)
 3. Modelado (algoritmos de ML)
 4. Evaluación (métricas y validación)
-5. Interpretabilidad (importancia de variables, SHAP/LIME si aplica)
+5. Interpretabilidad (importancia de variables)
 
 ## Resultados
 - Métricas principales: accuracy, precision, recall, F1, AUC, etc.
